@@ -1,1 +1,1 @@
-print("waster fo tme")
+print("waster f so osd odofjd ")

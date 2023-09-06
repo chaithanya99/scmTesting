@@ -1,0 +1,1 @@
+print("waster fo tme')

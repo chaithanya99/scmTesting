@@ -1,1 +1,1 @@
-print("waster fo tme')
+print("waster fo tme")
